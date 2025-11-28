@@ -1,0 +1,1 @@
+// Moved to features/feed/components/LessonCard.tsx

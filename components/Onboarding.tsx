@@ -1,0 +1,1 @@
+// Moved to features/onboarding/components/Onboarding.tsx
